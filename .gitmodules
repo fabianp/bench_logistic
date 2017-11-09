@@ -1,0 +1,4 @@
+[submodule "scikit-learn"]
+	path = scikit-learn
+	url = git@github.com:fabianp/scikit-learn.git
+	branch = bench_logistic
